@@ -1,0 +1,12 @@
+Package: LN0SCIs3
+Type: Package
+Title: LN0SCIs3
+Version: 1.0
+Date: 2017-03-05
+Author: Jing Xu, Xinmin Li, HuaLiang 
+Maintainer: Xinmin Li<xmli@qdu.edu.cn>
+Description: Three methods (GPQW(),GPQH(),GPQB_H()) to construct Simltaneous confidence intervals for ratios of means of log-normal populations with zeros, return three confidence intervals.
+License: GPL (>= 2)
+NeedsCompilation: no
+Encoding: UTF-8
+Packaged: 2017-03-06 03:49:13 UTC; xujing
